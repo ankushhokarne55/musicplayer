@@ -3,6 +3,7 @@
 body{
     background-image: linear-gradient(to right,#000000,#44c6da);
     overflow: hidden;
+    background-repeat:no-repeat;
 }
 *{
     padding: 0;
